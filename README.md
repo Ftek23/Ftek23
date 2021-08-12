@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ftek23
-- 👀 I’m interested in printer 3D printer
+- 👀 I’m interested in 3D printer
 - 🌱 I’m currently learning.....!
 
 <!---
